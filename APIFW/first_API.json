@@ -1,0 +1,460 @@
+{
+  "Group1": [
+    {
+      "Name": "Ahuja",
+      "LastName": "Kumar",
+      "Designation": "Manager",
+      "id": "test_1"
+    }
+  ],
+  "Group2": [
+    {
+      "id": 1
+    },
+    {
+      "Name": "Raju",
+      "LastName": "Kumar",
+      "Designation": "Manager",
+      "id": "test_2"
+    },
+    {
+      "Name": "Raghu",
+      "LastName": "Verma",
+      "Designation": "Clerk",
+      "id": 3
+    }
+  ],
+  "Group3": [
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "ID": "Anirudh",
+      "Name": "Anirudh",
+      "id": 1
+    },
+    {
+      "Designation": "SDET",
+      "Address": "{\"Pin\":\"249201\",\"State\":\"Uttarakhand\",\"District\":\"Dehradun\"}",
+      "ID": "Vinay",
+      "Name": "Vinay",
+      "id": 2
+    },
+    {
+      "Designation": "SDET",
+      "Address": {
+        "Pin": "249201",
+        "State": "Uttarakhand",
+        "District": "Dehradun"
+      },
+      "ID": "Vinay",
+      "Name": "Vinay",
+      "id": 3
+    },
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "Address2": {
+        "Pin": "249201",
+        "State": "Uttarakhand",
+        "District": "Dehradun"
+      },
+      "ID": "Vinay",
+      "Name": "Vinay",
+      "id": 4
+    },
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "Address2": {
+        "Pin": "249201",
+        "State": "Uttarakhand",
+        "District": "Dehradun"
+      },
+      "Name": "Rishabh",
+      "id": 5
+    },
+    {
+      "Simple1": [
+        {
+          "inside Array": "1"
+        }
+      ],
+      "ID": "123",
+      "id": 6
+    },
+    {
+      "Simple1": [
+        {
+          "inside Array": "1"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "Group 2": {},
+      "Group 1": {
+        "Section 4": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 3": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ],
+        "Section 2": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 1": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "id": "complexarray"
+    },
+    {
+      "Group 2": {},
+      "Group 1": {
+        "Section 4": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 3": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ],
+        "Section 2": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 1": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "id": "complexarray2"
+    },
+    {
+      "Group 2": {
+        "Section 4": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 3": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "Group 1": {
+        "Section 2": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 1": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "id": "complexarray3"
+    },
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "ID": "Anirudh",
+      "Name": "Anirudh",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "ID": "Anirudh",
+      "id": "{{id}}",
+      "Name": "Anirudh"
+    },
+    {
+      "Designation": "SDET",
+      "Address": "Rishikesh",
+      "id": "947974347",
+      "Name": "Anirudh"
+    },
+    {
+      "Group 2": {
+        "Section 4": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 3": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "Group 1": {
+        "Section 2": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 1": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "id": "complexarray5"
+    },
+    {
+      "Group 2": {
+        "Section 4": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 3": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "Group 1": {
+        "Section 2": [
+          {
+            "Roll Number": "1",
+            "Name": "Avni Singh"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Shivani Rao"
+          }
+        ],
+        "Section 1": [
+          {
+            "Roll Number": "1",
+            "Name": "Anirudh Sharma"
+          },
+          {
+            "Roll Number": "2",
+            "Name": "Raghu Sharma"
+          }
+        ]
+      },
+      "id": "171411593"
+    }
+  ],
+  "Group4": [
+    {
+      "address": "Rishikesh, Uttarakhand",
+      "name": "Anirudh",
+      "clas": "Second",
+      "lastName": "Sharma",
+      "id": 1
+    },
+    {
+      "name": "Aniv",
+      "lastName": "Singh",
+      "clas": "KG",
+      "address2": {
+        "landmark": "Dehradun Road",
+        "street": "Marg 1",
+        "houseno": "7"
+      },
+      "id": 2
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "655655",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "-1749097696",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "-1511325585",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "1453175236",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "-1825117420",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "797773963",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "-1954801071",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "-198624653",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "528387611",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Anirudh",
+      "Address": "Rishikesh",
+      "id": "1801159452",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Rajeev",
+      "id": "-1543973331",
+      "designation": "Manager",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Rajeev",
+      "id": "1386300451",
+      "designation": "Manager",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Rajeev",
+      "id": "-162373214",
+      "designation": "Manager",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Rajeev",
+      "id": "324923788",
+      "designation": "Manager",
+      "lastname": "Sharma"
+    },
+    {
+      "firstname": "Rajeev",
+      "id": "-1217546594",
+      "designation": "Manager",
+      "lastname": "Sharma"
+    }
+  ]
+}
